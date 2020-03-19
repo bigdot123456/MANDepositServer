@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbdb9da9-1967-4897-8147-4f108e9cb1bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="AgaKbHpG" />
+  </component>
+  <component name="ProjectId" id="1ZHbaGHuZdgNXuazuElLGWOOeed" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestWalletNotifications in ManDepositServer">
+    <configuration name="TestUnlockKeystore in ManDepositServer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ManDepositServer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ManDepositServer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUnlockKeystore$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWalletNotifications in ManDepositServer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ManDepositServer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ManDepositServer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWalletNotifications$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWalletNotifierLifecycle in ManDepositServer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ManDepositServer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ManDepositServer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWalletNotifierLifecycle$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keystore_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ManDepositServer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="ManDepositServer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/keystore_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestWalletNotifications in ManDepositServer" />
+        <item itemvalue="Go Test.keystore_test.go" />
+        <item itemvalue="Go Test.TestWalletNotifierLifecycle in ManDepositServer" />
+        <item itemvalue="Go Test.TestUnlockKeystore in ManDepositServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@415da22f" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@415da22f" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.kubernetes.view.KubernetesWorkloadsServiceViewContributor@441acb76" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@415da22f" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.kubernetes.view.KubernetesNetworkServiceViewContributor@483f163b" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@415da22f" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.kubernetes.view.KubernetesConfigurationServiceViewContributor@2e83c81c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.kubernetes.view.KubernetesDefaultClientServiceViewContributor@415da22f" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.kubernetes.view.KubernetesStorageServiceViewContributor@34b4cac5" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="326" key="GridCell.Tab.0.bottom" timestamp="1584580062331">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062331" />
+    <state width="1638" height="264" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1584576997339" />
+    <state width="1638" height="326" key="GridCell.Tab.0.center" timestamp="1584580062330">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062330" />
+    <state width="1638" height="264" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1584576997338" />
+    <state width="1638" height="326" key="GridCell.Tab.0.left" timestamp="1584580062329">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062329" />
+    <state width="1638" height="264" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1584576997338" />
+    <state width="1638" height="326" key="GridCell.Tab.0.right" timestamp="1584580062330">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062330" />
+    <state width="1638" height="264" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1584576997339" />
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom" timestamp="1584580062269">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062269" />
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1584514221323" />
+    <state width="1638" height="326" key="GridCell.Tab.1.center" timestamp="1584580062268">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.center/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062268" />
+    <state width="1638" height="326" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1584514221323" />
+    <state width="1638" height="326" key="GridCell.Tab.1.left" timestamp="1584580062267">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.left/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062267" />
+    <state width="1638" height="326" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1584514221323" />
+    <state width="1638" height="326" key="GridCell.Tab.1.right" timestamp="1584580062268">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.right/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580062268" />
+    <state width="1638" height="326" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1584514221323" />
+    <state x="355" y="241" key="SettingsEditor" timestamp="1584580948168">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="355" y="241" key="SettingsEditor/-1440.23.1440.877/0.23.1680.978@0.23.1680.978" timestamp="1584580948168" />
+    <state x="521" y="325" width="670" height="676" key="search.everywhere.popup" timestamp="1584502712803">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="521" y="325" width="670" height="676" key="search.everywhere.popup/0.23.1680.978@0.23.1680.978" timestamp="1584502712803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/GenKeystore_test.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/keystore_test.go</url>
+          <line>207</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
