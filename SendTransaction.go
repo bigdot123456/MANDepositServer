@@ -7,14 +7,22 @@ import (
 	"github.com/MatrixAINetwork/go-AIMan/transactions"
 	"github.com/MatrixAINetwork/go-AIMan/waiting"
 	"math/big"
+	"strconv"
 	"time"
 	//"testing"
 )
+
 var (
-	errTimeOut        = errors.New("Time Out")
-	errContractRun    = errors.New("Contract Run Error")
-	errDeposit        = errors.New("No deposit")
+	errTimeOut     = errors.New("Time Out")
+	errContractRun = errors.New("Contract Run Error")
+	errDeposit     = errors.New("No deposit")
 )
+
+//打印jerry链抵押信息
+func Convert(i int) string {
+	str := strconv.FormatInt(int64(i), 16) //10 yo 16
+	return "0x" + str
+}
 
 func SendDepositTrans_v2(connect *manager.Manager, depAddr string, amount *big.Int, depositType *big.Int, depositRole *big.Int, from string, passphrase string) error {
 
